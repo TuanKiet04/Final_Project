@@ -1,1 +1,2 @@
 # Final_Project
+Với mục tiêu trở thành một nền tảng truyền thông và giao lưu đáng tin cậy, 'Divo, Diva Fan Vietnam' cung cấp tin tức mới nhất về các hoạt động của các nghệ sĩ nổi tiếng, bao gồm thông tin về album mới, tour diễn, sự kiện và các hoạt động từ thiện mà họ tham gia. Đội ngũ quản trị trang cũng nỗ lực để chia sẻ các bài viết, video và hình ảnh đa dạng về các nghệ sĩ, giúp người hâm mộ cập nhật thông tin và tận hưởng những sản phẩm nghệ thuật của họ.
